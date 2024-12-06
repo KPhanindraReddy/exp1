@@ -7,11 +7,11 @@ Original file is located at
     https://colab.research.google.com/drive/1B6TvzCdbAPdZOgqgn-vrSJdVGJCyOKSV
 """
 
-a=5
-    b=4
-    c=6
-    x=4.5
-    y=0
+a=float(input("enter the value of a:"))
+    b=float(input("enter the value of b:"))
+    c=float(input("enter the value of c:"))
+    x=float(input("enter the value of x:"))
+
 
 
 
